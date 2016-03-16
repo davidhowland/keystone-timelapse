@@ -102,6 +102,57 @@
           39.96680953655088
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Presque Isle State Park",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12861251831055,
+          42.15284152634708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pinnacle Overlook",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34412288665771,
+          39.8453174337574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mount Tammany",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11569261550903,
+          40.97103648536272
+        ]
+      }
     }
   ]
 }
