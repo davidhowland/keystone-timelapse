@@ -19,12 +19,12 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiZnJpZ2lkbGlnaHQiLCJhIjoiczg4X2VuYyJ9.yMtOhBeG
 var map = L.mapbox.map('map', 'mapbox.dark')
   .setView([40, -74.50], 9);
 
-L.marker([40.884983, -75.7649609]).addTo(map)
-  .bindPopup('Glen Onoko Falls');
+// L.marker([40.884983, -75.7649609]).addTo(map)
+//   .bindPopup('Glen Onoko Falls');
 
-$.getJSON("locations.geojson",function(data){
-  L.geoJson(data).addTo(map);
-});
+var featureLayer = L.mapbox.featureLayer()
+    .loadURL('/data/locations.geojson')
+    .addTo(map);
 </script>
 </body>
 </html>
