@@ -7,7 +7,7 @@ var map = L.mapbox.map('map', 'mapbox.dark')
 L.marker([40.884983, -75.7649609]).addTo(map)
   .bindPopup('Glen Onoko Falls');
 
-$.getJSON("/../data/locations.geojson",function(data){
+$.getJSON("locations.geojson",function(data){
   L.geoJson(data).addTo(map);
 });
 </script>
