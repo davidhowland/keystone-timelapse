@@ -14,7 +14,7 @@ var map = L.mapbox.map('map', 'mapbox.streets')
 // So the CSV file must be on the same domain as the Javascript, or the server
 // delivering it should support CORS.
 var featureLayer = L.mapbox.featureLayer()
-    .loadURL('http://davidhowland.github.io/keystone-timelapse/data/locations.geojson')
+    .loadURL('/data/locations.geojson')
     .addTo(map);
 
 // Especially with dynamic data, it's useful to automatically fit all markers

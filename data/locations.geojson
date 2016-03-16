@@ -1,40 +1,107 @@
-{ "type": "FeatureCollection",
+{
+  "type": "FeatureCollection",
   "features": [
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -74.0163293, 40.770784 ]},
-      "properties": {"name": "Hamilton Park"}
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Glen Onoko Falls",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76266288757323,
+          40.88476022467239
+        ]
+      }
     },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -71.04645, 42.35464 ]},
-      "properties": {"name": "Fan Pier"}
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mount Washington, Pittsburgh",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0227403640747,
+          40.44039047023941
+        ]
+      }
     },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -70.6551102, 41.5157836 ]},
-      "properties": {"name": "Nobska Lighthouse"}
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spring Garden St Bridge",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18335670232773,
+          39.9643940584788
+        ]
+      }
     },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -75.7649609, 40.884983 ]},
-      "properties": {"name": "Glen Onoko Falls"}
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Art Museum Steps",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18006294965744,
+          39.96493677758107
+        ]
+      }
     },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -70.66143, 41.54218 ]},
-      "properties": {"name": "The Knob"}
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "South St Bridge",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18685430288315,
+          39.946895226505184
+        ]
+      }
     },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -70.5067, 41.5522 ]},
-      "properties": {"name": "South Cape Beach State Park"}
-    },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -70.2744, 41.7101 ]},
-      "properties": {"name": "Long Pasture Wildlife Sanctuary"}
-    },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -70.1686467, 42.0331224 ]},
-      "properties": {"name": "Long Point Lighthouse"}
-    },
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -71.03184, 42.40198 ]},
-      "properties": {"name": "Malone Park"}
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fairmount Waterworks",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18460661172867,
+          39.96680953655088
+        ]
+      }
     }
   ]
 }
