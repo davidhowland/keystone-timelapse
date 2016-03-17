@@ -7,7 +7,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Glen Onoko Falls",
+        "title": "Glen Onoko Falls",
         "status": "shot-list"
       },
       "geometry": {
@@ -24,7 +24,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Mount Washington, Pittsburgh",
+        "title": "Mount Washington, Pittsburgh",
         "status": "shot-list"
       },
       "geometry": {
@@ -41,7 +41,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Spring Garden St Bridge",
+        "title": "Spring Garden St Bridge",
         "status": "shot-list"
       },
       "geometry": {
@@ -58,7 +58,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Art Museum Steps",
+        "title": "Art Museum Steps",
         "status": "shot-list"
       },
       "geometry": {
@@ -75,7 +75,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "South St Bridge",
+        "title": "South St Bridge",
         "status": "shot-list"
       },
       "geometry": {
@@ -92,7 +92,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fairmount Waterworks",
+        "title": "Fairmount Waterworks",
         "status": "shot-list"
       },
       "geometry": {
@@ -109,7 +109,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Presque Isle State Park",
+        "title": "Presque Isle State Park",
         "status": "shot-list"
       },
       "geometry": {
@@ -126,7 +126,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Pinnacle Overlook",
+        "title": "Pinnacle Overlook",
         "status": "shot-list"
       },
       "geometry": {
@@ -143,7 +143,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Mount Tammany",
+        "title": "Mount Tammany",
         "status": "shot-list"
       },
       "geometry": {
@@ -160,7 +160,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Boulder Field at Hickory Run State Park",
+        "title": "Boulder Field at Hickory Run State Park",
         "status": "shot-list"
       },
       "geometry": {
@@ -177,7 +177,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Boathouse Row from W River Dr",
+        "title": "Boathouse Row from W River Dr",
         "status": "shot-list"
       },
       "geometry": {
@@ -194,7 +194,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Grandview Cemetary",
+        "title": "Grandview Cemetary",
         "status": "shot-list"
       },
       "geometry": {
@@ -211,7 +211,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Cherry Springs State Park",
+        "title": "Cherry Springs State Park",
         "status": "shot-list"
       },
       "geometry": {
@@ -228,7 +228,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Hyner View State Park",
+        "title": "Hyner View State Park",
         "status": "shot-list"
       },
       "geometry": {
@@ -245,7 +245,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Rickett's Glen State Park",
+        "title": "Rickett's Glen State Park",
         "status": "shot-list"
       },
       "geometry": {
