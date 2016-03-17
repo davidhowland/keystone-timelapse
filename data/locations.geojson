@@ -153,6 +153,108 @@
           40.97103648536272
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boulder Field at Hickory Run State Park",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68155288696289,
+          41.02180840086087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boathouse Row from W River Dr",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1904135942459,
+          39.96839651058075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Grandview Cemetary",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9199447631836,
+          40.31199603742692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cherry Springs State Park",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8233289718628,
+          41.662621108404565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hyner View State Park",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.62351512908936,
+          41.32674622734771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rickett's Glen State Park",
+        "status": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28285050392151,
+          41.33406952270821
+        ]
+      }
     }
   ]
 }
