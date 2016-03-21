@@ -255,6 +255,40 @@
           41.33406952270821
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Palmyra Cove Nature Park",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.04542946815491,
+          40.007327499306726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Broad & JFK",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16379535198212,
+          39.95343802330847
+        ]
+      }
     }
   ]
 }
