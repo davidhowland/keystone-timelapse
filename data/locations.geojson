@@ -374,6 +374,39 @@
           40.81351691043028
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Indian Ladder Falls",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90744590759277,
+          41.17461626363164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Chapel at Hickory Run State Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6807267665863,
+          41.0235567843881
+        ]
+      }
     }
   ]
 }
