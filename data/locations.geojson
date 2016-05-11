@@ -289,6 +289,91 @@
           39.95343802330847
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Ringing Rocks County Park",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1286745071411,
+          40.56073206367894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "McConnells Mill State Park",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17477869987488,
+          40.9391686912193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Trough Creek State Park",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.12809228897095,
+          40.326213275665694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Swatara State Park",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5362548828125,
+          40.49236020359241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Buttermilk (Homewood) Falls",
+        "type": "shot-list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32713890075684,
+          40.81351691043028
+        ]
+      }
     }
   ]
 }
